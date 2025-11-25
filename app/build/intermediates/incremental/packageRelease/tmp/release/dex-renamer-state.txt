@@ -1,0 +1,4 @@
+#Wed Nov 26 00:41:09 WEST 2025
+base.0=/Users/manalqachri/Desktop/TP2-QachriManal/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

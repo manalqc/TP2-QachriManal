@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.tp2githubactions.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="color[purple_200(U),black(U),teal_200(U),white(U),teal_700(U),purple_700(U),purple_500(U)],drawable[ic_launcher_foreground(U)],id[message(U)],layout[activity_main(U)],string[app_name(U),hello_message(U)],style[Theme_TP2GithubActions(U),Theme_MaterialComponents_DayNight_DarkActionBar(R)],xml[data_extraction_rules(U),backup_rules(U)];9^b,c^d^6^5^3^2^4^1^0;;;"/>
+    </map>
+
+</incidents>
