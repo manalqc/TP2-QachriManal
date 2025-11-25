@@ -1,0 +1,3 @@
+# Preserve executable permissions for gradlew
+gradlew binary
+*.jar binary
