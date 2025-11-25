@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TP2GithubActions</string>
+    <string name="hello_message">Bonjour depuis TP2 + GitHub Actions !</string>
+</resources>
